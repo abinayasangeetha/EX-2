@@ -2,7 +2,7 @@
 
 # EXP: 2
 
-# DATE:15-03-2023
+# DATE:
 
 # AIM :
 ## To write a python program to perform stop and wait protocol
